@@ -3,7 +3,7 @@
 
 <br/>
 
-<a href="https://discord.com/users/728590937441304586">
+<a href="https://discord.com/users/661398044226486292">
     <img align ="left" alt='A-cute-blob's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
                                                                                                                                   
   </a>
