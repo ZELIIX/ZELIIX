@@ -7,11 +7,11 @@
     <img align ="left" alt='A-cute-blob's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
                                                                                                                                   
   </a>
-    <a href="https://github.com/A-cute-blob">
-      <img align ="left" alt='A-cute-blob's Github" width="22px" src ="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+    <a href="https://github.com/ZELIIX">
+      <img align ="left" alt='ZELIIX Github" width="22px" src ="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
                                                                                                                                               </a>
                                                                                                                       </br>    
- </br><img src="https://discord.c99.nl/widget/theme-3/728590937441304586.png" alt="discord" />
+ </br><img src="https://discord.c99.nl/widget/theme-3/661398044226486292.png" alt="discord" />
                                                                                                                                    </br>
   Hey, I'm a cute blob a Developer from India. <br>
   
